@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+This is usually done on a new repository. This is used to create a new Master Branch.
+
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is different from both the working directory and the respoitory because it acts like a middle ground. 
+This helps keep yourself and files you're adding to the repository organized, as well as adding fewer commits.
