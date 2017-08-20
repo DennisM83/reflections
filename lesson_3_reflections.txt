@@ -7,3 +7,14 @@ If you're looking to upload for space, if you're looking for feedback, if you wa
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Pulling manually allows you to make changes and add your commit while keeping everything logical. I would imagine this is a similar reason why you don't want auto update. 
+
+
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is when you add a new repository to your github account from someone elses. Forking is similar to cloning, but this is only done in github. A clone is a copy of a repository you have taken from github and put locally on your computer. Copying your files to another location in your computer is another example of a copy. Branches are working files that are off-shoots of a master file. These files contain a variation of the master file, but also changes that are made by a developer. These are kept from the main componets until they are merged.
+
+
+
+
